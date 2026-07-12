@@ -1,0 +1,31 @@
+﻿IGES to UG
+! INFO-     NX V2007 / IGES Specification 5.3
+! INFO-      
+! INFO-     Start of Translation: 1-JUL-2026  7:49:43 PM
+! INFO-      
+! STATUS-   Converting Part: C:\Users\Director\Downloads\VFS\Summer 26\VSPAero\holshit.IGS
+! INFO-     SolidWorks IGES file using analytic representation for surfaces         
+! SUMMARY-   
+! SUMMARY-  Summary of Supported IGES Entities in file
+! SUMMARY-   
+! SUMMARY-  Entity Type                    Count
+! SUMMARY-  -----------                    -----
+! SUMMARY-  Color Definition (314/0,1)...:     1
+! SUMMARY-                                 -----
+! SUMMARY-  Total                              1
+! STATUS-    
+! STATUS-   Converting to Output Form (Phase 2 of 3): 1-JUL-2026 7:49:43 PM
+! STATUS-    
+! STATUS-   Creating the UG part (Phase 3 of 3): 1-JUL-2026  7:49:43 PM
+! INFO-     Filing Part ..: C:\Users\Director\Downloads\VFS\Summer 26\VSPAero\holshit_igs.prt
+! SUMMARY-   
+! SUMMARY-  Summary of Unigraphics Input Entities
+! SUMMARY-   
+! SUMMARY-  Entities Processed             Count
+! SUMMARY-  ------------------             -----
+! SUMMARY-  Part Attribute ..............:     8
+! SUMMARY-                                 -----
+! SUMMARY-  Total                              8
+! INFO-      
+! INFO-     End of Translation: 1-JUL-2026  7:49:46 PM
+! INFO-      
