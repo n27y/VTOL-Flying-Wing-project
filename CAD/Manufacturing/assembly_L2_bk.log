@@ -1,0 +1,60 @@
+﻿
+Unigraphics NX V2007 / 2D Exchange
+
+Reading part: C:\Users\Director\AppData\Local\Temp\assembly_L2_objects.prt
+
+
+Writing part: C:\Users\Director\AppData\Local\Temp\Dire3DF8AA0132sp.prt
+
+Elapsed time   :    0 minutes,  3 seconds
+Actual CPU Time:    0 minutes,  2 seconds
+
+INFO-
+INFO-		Unigraphics Version NX V2007 to AutoCAD 2004
+INFO-		
+INFO-
+INFO-		Running UGTODWG Translator .....
+INFO-
+INFO-		Start of Translation: Sun Jul 12 20:52:42 2026
+INFO-
+STATUS-		Converting C:\Users\Director\AppData\Local\Temp\Dire3DF8AA0132sp.prt
+STATUS-
+----------------------------------------------------------------------------
+SUMMARY-                     Warnings
+----------------------------------------------------------------------------
+1. Font file <txt.shx> not found.
+   For text translation improvement, set environment variable DXFDWG_FONTS_DIR to directory contaning font files
+   OR place this font file at location pointed to by DXFDWG_DIR.
+-------------------------------End------------------------------------------
+
+SUMMARY-
+SUMMARY-	Summary of Unigraphics Input Entities
+SUMMARY-	For Unigraphics File: C:\Users\Director\AppData\Local\Temp\Dire3DF8AA0132sp.prt
+SUMMARY-	------------------------------------------------------------------
+SUMMARY-	Entity Type					Count
+SUMMARY-	------------------------------------------------------------------
+SUMMARY-	Line .....................................:	12
+SUMMARY-	Conic ....................................:	216
+SUMMARY-	Spline ...................................:	246
+SUMMARY-	------------------------------------------------------------------
+SUMMARY-	Total ....................................:	474
+SUMMARY-	------------------------------------------------------------------
+SUMMARY-
+STATUS-
+INFO-
+INFO-		Writing File: C:\Users\Director\Downloads\VFS\Summer 26\VTOL Flying Wing project\CAD\Manufacturing\assembly_L2.dwg
+SUMMARY-	Summary of AutoCAD Output Entities
+SUMMARY-	------------------------------------------------------------------
+SUMMARY-	Entity Type					Count
+SUMMARY-	------------------------------------------------------------------
+SUMMARY-	Spline ...................................:	246
+SUMMARY-	Line .....................................:	12
+SUMMARY-	Ellipse ..................................:	216
+SUMMARY-	Layout ...................................:	6
+SUMMARY-	------------------------------------------------------------------
+SUMMARY-	Total ....................................:	480
+SUMMARY-	------------------------------------------------------------------
+SUMMARY-
+INFO-
+INFO-		End of Translation: Sun Jul 12 20:52:56 2026
+INFO-		Translation CPU time: 0 m, 14 sINFO-

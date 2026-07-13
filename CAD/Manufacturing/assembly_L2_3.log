@@ -1,0 +1,101 @@
+﻿
+Unigraphics NX V2007 / 2D Exchange
+
+Reading part: C:\Users\Director\Downloads\VFS\Summer 26\VTOL Flying Wing project\CAD\assembly_L2.prt
+
+Failed to retrieve file: mirror_roll_motor.prt, Reason : Failed to find file using current search options, part left unloaded
+
+Failed to retrieve file: roll_motor.prt, Reason : Failed to find file using current search options, part left unloaded
+
+Failed to retrieve file: teleradio.prt, Reason : Failed to find file using current search options, part left unloaded
+
+Failed to retrieve file: step_down_regulator.prt, Reason : Failed to find file using current search options, part left unloaded
+
+Failed to retrieve file: propeller.prt, Reason : Failed to find file using current search options, part left unloaded
+
+Failed to retrieve file: pixhawk6c.prt, Reason : Failed to find file using current search options, part left unloaded
+
+Failed to retrieve file: main ESC.prt, Reason : Failed to find file using current search options, part left unloaded
+
+Failed to retrieve file: PM07 Power Module.prt, Reason : Failed to find file using current search options, part left unloaded
+
+Failed to retrieve file: battery.prt, Reason : Failed to find file using current search options, part left unloaded
+
+
+Writing part: C:\Users\Director\AppData\Local\Temp\Dire3DF8AA0132w3.prt
+
+Elapsed time   :    0 minutes, 47 seconds
+Actual CPU Time:    0 minutes, 46 seconds
+
+
+ 
+	 	 Annotation Summary 
+ 
+
+ 
+Other annotations in input Part 
+-------------------------------------------------------------------------------------------------------------
+Note                                           :	80
+-------------------------------------------------------------------------------------------------------------
+Total                                          :	80
+-------------------------------------------------------------------------------------------------------------
+
+ 
+
+ 
+Other annotations in output 2D Part 
+-------------------------------------------------------------------------------------------------------------
+Note                                           :	80
+-------------------------------------------------------------------------------------------------------------
+Total                                          :	80
+-------------------------------------------------------------------------------------------------------------
+INFO-
+INFO-		Unigraphics Version NX V2007 to AutoCAD 2018
+INFO-		
+INFO-
+INFO-		Running UGTODXF Translator .....
+INFO-
+INFO-		Start of Translation: Sun Jul 12 22:04:17 2026
+INFO-
+STATUS-		Converting C:\Users\Director\AppData\Local\Temp\Dire3DF8AA0132w3.prt
+STATUS-
+SUMMARY-
+SUMMARY-	Summary of Unigraphics Input Entities
+SUMMARY-	For Unigraphics File: C:\Users\Director\AppData\Local\Temp\Dire3DF8AA0132w3.prt
+SUMMARY-	------------------------------------------------------------------
+SUMMARY-	Entity Type					Count
+SUMMARY-	------------------------------------------------------------------
+SUMMARY-	Line .....................................:	140
+SUMMARY-	Point ....................................:	1
+SUMMARY-	Circle ...................................:	12
+SUMMARY-	Conic ....................................:	97
+SUMMARY-	Spline ...................................:	125
+SUMMARY-	Note .....................................:	80
+SUMMARY-	Cross Hatch ..............................:	4
+SUMMARY-	Image ....................................:	1
+SUMMARY-	------------------------------------------------------------------
+SUMMARY-	Total ....................................:	460
+SUMMARY-	------------------------------------------------------------------
+SUMMARY-
+STATUS-
+INFO-
+INFO-		Writing File: C:\Users\Director\Downloads\VFS\Summer 26\VTOL Flying Wing project\CAD\Manufacturing\assembly_L2_3.dxf
+SUMMARY-	Summary of AutoCAD Output Entities
+SUMMARY-	------------------------------------------------------------------
+SUMMARY-	Entity Type					Count
+SUMMARY-	------------------------------------------------------------------
+SUMMARY-	Circle ...................................:	12
+SUMMARY-	Point ....................................:	1
+SUMMARY-	Line .....................................:	1280
+SUMMARY-	Ellipse ..................................:	97
+SUMMARY-	Polyline .................................:	125
+SUMMARY-	Multiline Text ...........................:	96
+SUMMARY-	Layout ...................................:	6
+SUMMARY-	Image ...................................:	1
+SUMMARY-	------------------------------------------------------------------
+SUMMARY-	Total ....................................:	1622
+SUMMARY-	------------------------------------------------------------------
+SUMMARY-
+INFO-
+INFO-		End of Translation: Sun Jul 12 22:04:21 2026
+INFO-		Translation CPU time: 0 m, 4 sINFO-

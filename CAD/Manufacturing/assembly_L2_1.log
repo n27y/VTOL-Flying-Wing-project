@@ -1,0 +1,54 @@
+﻿
+Unigraphics NX V2007 / 2D Exchange
+
+Reading part: C:\Users\Director\AppData\Local\Temp\assembly_L2_objects.prt
+
+
+Writing part: C:\Users\Director\AppData\Local\Temp\Dire3DF8AA0132to.prt
+
+Elapsed time   :    0 minutes,  0 seconds
+Actual CPU Time:    0 minutes,  0 seconds
+
+INFO-
+INFO-		Unigraphics Version NX V2007 to AutoCAD 2004
+INFO-		
+INFO-
+INFO-		Running UGTODXF Translator .....
+INFO-
+INFO-		Start of Translation: Sun Jul 12 21:12:54 2026
+INFO-
+STATUS-		Converting C:\Users\Director\AppData\Local\Temp\Dire3DF8AA0132to.prt
+STATUS-
+SUMMARY-
+SUMMARY-	Summary of Unigraphics Input Entities
+SUMMARY-	For Unigraphics File: C:\Users\Director\AppData\Local\Temp\Dire3DF8AA0132to.prt
+SUMMARY-	------------------------------------------------------------------
+SUMMARY-	Entity Type					Count
+SUMMARY-	------------------------------------------------------------------
+SUMMARY-	Line .....................................:	12
+SUMMARY-	Point ....................................:	1
+SUMMARY-	Conic ....................................:	216
+SUMMARY-	Spline ...................................:	246
+SUMMARY-	------------------------------------------------------------------
+SUMMARY-	Total ....................................:	475
+SUMMARY-	------------------------------------------------------------------
+SUMMARY-
+STATUS-
+INFO-
+INFO-		Writing File: C:\Users\Director\Downloads\VFS\Summer 26\VTOL Flying Wing project\CAD\Manufacturing\assembly_L2_1.dxf
+SUMMARY-	Summary of AutoCAD Output Entities
+SUMMARY-	------------------------------------------------------------------
+SUMMARY-	Entity Type					Count
+SUMMARY-	------------------------------------------------------------------
+SUMMARY-	Spline ...................................:	246
+SUMMARY-	Point ....................................:	1
+SUMMARY-	Line .....................................:	12
+SUMMARY-	Ellipse ..................................:	216
+SUMMARY-	Layout ...................................:	6
+SUMMARY-	------------------------------------------------------------------
+SUMMARY-	Total ....................................:	481
+SUMMARY-	------------------------------------------------------------------
+SUMMARY-
+INFO-
+INFO-		End of Translation: Sun Jul 12 21:12:55 2026
+INFO-		Translation CPU time: 0 m, 0 sINFO-
