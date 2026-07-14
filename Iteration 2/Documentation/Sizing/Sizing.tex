@@ -1,0 +1,61 @@
+\documentclass[a4paper,man,natbib]{apa6}
+\usepackage[english]{babel}
+\usepackage[utf8x]{inputenc}
+\usepackage{amsmath}
+\usepackage{cancel}
+\usepackage{graphicx}
+\usepackage[colorinlistoftodos]{todonotes}
+
+\title{VTOL tail-sitter V2}
+\shorttitle{V2}
+\author{NY}
+\affiliation{Summer 2026}
+
+\begin{document}
+\maketitle
+
+\section{Nomenclature}
+
+\section{Assumptions}
+\subsection{Constraints}
+\subsubsection{Cost:\\}
+The total component budget for this build is to fit under \$400.
+\subsubsection{Dimensions:}
+\begin{itemize}
+    \item Wingspan of 54 inches/
+    \item Maximum weight of 1.3kg, driven by hardware motor constrain
+\item An aspect ratio of 14 is chosen to authentically represent Iteration 1's design
+\end{itemize}
+\subsubsection{Hardware:}
+\begin{itemize}
+    \item Main motor: KDE3510XF-475 (Max thrust of 22 N)
+\end{itemize}
+
+\section{Initial Sizing and aircraft specification calculations}
+
+Assuming a reasonably efficient wing planform ($e \approx 0.8$), and an estimated initial zero-lift drag coefficient of $C_{d_0} = 0.03$, we have the folling basic aircraft metrics:
+\begin{align*}
+    b &= 1.3761 \text{ m}\\
+    AR &= 14\\
+    S &= 0.135 \text{ m}^2\\
+    W &= 12.955 \text{ N}\\
+    \rho &= 1.225 \textbf{ kg/m}^3\\
+    k &= \frac{1}{\pi ARe} \approx 0.02842\\
+\end{align*}
+
+\subsection{Cruise}
+To maximize endurance, the aircraft will fly at the minimum-drag velocity:
+\begin{align*}
+    v_{md} &= \sqrt{\frac{2n_zW}{\rho S C_{L_{md}}}}\\
+    n_z &= 1\\
+    C_{L_{md}} &= \sqrt{\frac{C_{d_0}}{k}} \approx 1.0274\\
+    &\boxed{v_{md} = 12.188 \text{ m/s}}
+\end{align*}
+
+Thrust requirements, therefore follow as:
+\begin{align*}
+    T &= \frac{1}{2}\rho v^2 S C_D\\
+    C_D &= C_{d_0} + kC_{L_{md}}^2 \approx 0.06\\
+    &\boxed{T_{req} = 0.757 \text{ N}}
+\end{align*}
+\end{document}
